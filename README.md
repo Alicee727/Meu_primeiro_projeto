@@ -1,1 +1,3 @@
-# Meu_primeiro_projeto
+# Calculadora IFNMG
+
+![Texto Alternativo](img/calculadora.png)
